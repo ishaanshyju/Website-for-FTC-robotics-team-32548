@@ -2,6 +2,12 @@
 
 A responsive black-and-white website for Optimus FTC 32548, one of Round Rock High School’s robotics teams in Round Rock, Texas. No build step or package installation is required.
 
+## GitHub Pages
+
+GitHub Pages is configured to serve the `main` branch from the repository root.
+
+Website address: https://ishaanshyju.github.io/Website-for-FTC-robotics-team-32548/
+
 ## Open the website
 
 Unzip the download and open `index.html` in your browser. Keep `styles.css` and `script.js` beside it.
