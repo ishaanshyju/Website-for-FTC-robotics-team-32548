@@ -1,4 +1,4 @@
-# Optimus · FTC 32548
+# OptimusFTC32548
 
 A responsive black-and-white website for Optimus FTC 32548, one of Round Rock High School’s robotics teams in Round Rock, Texas. No build step or package installation is required.
 
@@ -6,7 +6,13 @@ A responsive black-and-white website for Optimus FTC 32548, one of Round Rock Hi
 
 GitHub Pages is configured to serve the `main` branch from the repository root.
 
-Website address: https://ishaanshyju.github.io/Website-for-FTC-robotics-team-32548/
+The current GitHub Pages address is shown in the repository’s Pages settings.
+
+## Netlify hosting
+
+The `netlify.toml` file configures this static website for deployment without a build command.
+
+In Netlify, import this GitHub repository as an existing project and deploy the `main` branch. Leave the build command empty and use `.` as the publish directory. Set the project name to `OptimusFTC32548` if that name is available. Netlify provides a public address that does not contain the GitHub account username.
 
 ## Open the website
 
