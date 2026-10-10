@@ -2,6 +2,12 @@
 
 A responsive black-and-white website for Optimus FTC 32548, one of Round Rock High School’s robotics teams in Round Rock, Texas. No build step or package installation is required.
 
+## Live website
+
+https://optimusftc32548.netlify.app/
+
+The Netlify homepage, stylesheet, and script were verified to return HTTP 200 with the OptimusFTC32548 title, school information, and Instagram link.
+
 ## GitHub Pages
 
 GitHub Pages is configured to serve the `main` branch from the repository root.
